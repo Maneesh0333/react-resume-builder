@@ -1,7 +1,6 @@
 import { useFieldArray } from "react-hook-form";
 import type {
   Control,
-  FieldArrayPath,
   FieldErrors,
   UseFormRegister,
 } from "react-hook-form";
