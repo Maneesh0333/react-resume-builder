@@ -88,9 +88,9 @@ A modern and responsive resume builder built with React, TypeScript, React Hook 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/resumeforge.git
+git https://github.com/Maneesh0333/react-resume-builder.git
 
-cd resumebuilder
+cd react-resume-builder
 
 npm install
 
